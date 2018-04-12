@@ -151,4 +151,4 @@ El procedimiento que se siguió fue el siguiente:
 
 Sobre la placa fenólica y del lado donde se encuentra el cobre se trazan las pistas según el circuito con un plumón negro. Una vez hecho esto se vacía el cloruro férrico sobre un recipiente donde se colocara la placa para poder obtener las pistas grabadas en cobre.
 
-
+![PAART1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PART1.png)
