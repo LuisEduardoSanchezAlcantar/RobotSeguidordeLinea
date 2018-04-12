@@ -34,6 +34,7 @@ DIAGRAMA:
 ![Diagrama](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/diagrama.png)
 
 --------------------------------------------------------------------------------------------------------
+
 COMPONENTES BASICOS DE UN ROBOT:
 
 Los robots seguidores de línea (o robots rastreadores) cumplen una única misión: Seguir una línea marcada en el suelo (normalmente una línea negra sobre un fondo blanco o línea blanca en fondo negro).
@@ -83,5 +84,16 @@ Estos capacitores son del tipo electrolítico, por lo que tienen polaridad, es d
 PIN simple.
 
 El PIN simple es un conector ideal para cables, ampliamente utilizado en la mayoría de dispositivos de computadoras, impresoras y tarjetas electrónicas, su contraparte es el header hembra.
+
+
+--------------------------------------------------------------------------------------------------------
+
+FUNCIONAMIENTO
+
+Todos los rastreadores basan su funcionamiento en los sensores. Sin embargo, dependiendo de la complejidad del recorrido, el robot debe ser más o menos complejo Los rastreadores más simples utilizan 2 sensores, ubicados en la parte inferior de la estructura, uno junto al otro. Cuando uno de los 2 sensores detecta el color blanco, significa que el robot está saliendo de la línea negra por ese lado. En ese momento, el robot gira hacia el lado contrario hasta que vuelve a estar sobre la línea. Esto en el caso de los seguidores de línea negra, ya que también hay seguidores de línea blanca.
+
+Las 2 maneras más comunes de armar los rastreadores son: OPAMS, o con simples transistores (sin necesidad de programar nada). Esto dependiendo de la complejidad con la que se quiera armar el circuito. Podemos utilizar un pic 16f84 para guarda en El un recorrido de x pista.
+
+
 
 
