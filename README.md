@@ -98,30 +98,30 @@ Las 2 maneras más comunes de armar los rastreadores son: OPAMS, o con simples t
 
 COMPONENTES ELECTRONICOS.
 
-	2 Emisores infrarrojos de 5mm.
-	2 Receptor infrarrojos de 5mm.
-	2 LED´s verdes mini de 3.5mm.
-	2 Header hembra.
-	2 Pines macho.
-	1 Liga.
-	1 Clip de baterías de 9v.
-	2 Motores de 3000rpm.
-	1 Placa de circuito impreso.
-	2 Potenciómetros de 50k.
-	2 Cables.
-	Termofijo en varios tamaños.
-	2 Engranes.
-	2 Micas.
-	2 Capacitores de 10 μf.
-	2 Transistores BC547.
-	2 Resistencias de 270 Ohms.
-	2 Resistencias de 560 Ohms.
-	2 Resistencias de 1k Ohms.
-	2 Resistencias de 10k Ohms.
-	1 Transistor 7805.
-	2 Alambres de cobre.
-	1 Base para CI de 8 pines
-	1 CI LM393.
+	2 Emisores infrarrojos de 5mm.
+	2 Receptor infrarrojos de 5mm.
+	2 LED´s verdes mini de 3.5mm.
+	2 Header hembra.
+	2 Pines macho.
+	1 Liga.
+	1 Clip de baterías de 9v.
+	2 Motores de 3000rpm.
+	1 Placa de circuito impreso.
+	2 Potenciómetros de 50k.
+	2 Cables.
+	Termofijo en varios tamaños.
+	2 Engranes.
+	2 Micas.
+	2 Capacitores de 10 μf.
+	2 Transistores BC547.
+	2 Resistencias de 270 Ohms.
+	2 Resistencias de 560 Ohms.
+	2 Resistencias de 1k Ohms.
+	2 Resistencias de 10k Ohms.
+	1 Transistor 7805.
+	2 Alambres de cobre.
+	1 Base para CI de 8 pines
+	1 CI LM393.
 
 1 part.
 ![parte1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%2CRESISTENCIAS%2CLED%C2%B4S%2CETC.jpg)
@@ -130,7 +130,18 @@ COMPONENTES ELECTRONICOS.
 --------------------------------------------------------------------------------------------------------
 HERRAMIENTAS UTILIZADAS.
 
+Cautín de lápiz.
+Pinzas de punta.
+Pinzas de corte.
+Soldadura.
+Cable delgado para electrónica.
+Kolaloka.
+Encendedor.
+Cloruro Férrico.
+Taladro.
+Brocas.
 
+[!Herramientas]()
 
 
 --------------------------------------------------------------------------------------------------------
