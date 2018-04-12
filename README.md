@@ -128,4 +128,10 @@ COMPONENTES ELECTRONICOS.
 ![parte2](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%202.jpg)
 ![parte3](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PORTA%20PILA.jpg)
 --------------------------------------------------------------------------------------------------------
+HERRAMIENTAS UTILIZADAS.
+
+
+
+
+--------------------------------------------------------------------------------------------------------
 
