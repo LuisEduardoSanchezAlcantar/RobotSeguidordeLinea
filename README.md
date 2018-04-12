@@ -126,7 +126,7 @@ COMPONENTES ELECTRONICOS.
 1 part.
 ![parte1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%2CRESISTENCIAS%2CLED%C2%B4S%2CETC.jpg)
 2 part.
-![parte2]()
+![parte2](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%202.jpg)
 3 part.
 ![parte3]()
 --------------------------------------------------------------------------------------------------------
