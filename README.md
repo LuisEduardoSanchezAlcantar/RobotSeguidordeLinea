@@ -36,3 +36,4 @@ CONTIENE:
 1 RUEDA LOCA
 
 --------------------------------------------------------------------------------------------------------
+RobotSeguidordeLinea/PIEZAS MONTADAS.jpg
