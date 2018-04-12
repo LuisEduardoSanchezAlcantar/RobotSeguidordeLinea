@@ -124,6 +124,6 @@ COMPONENTES ELECTRONICOS.
 	1 CI LM393.
 
 1 part.
-(https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%2CRESISTENCIAS%2CLED%C2%B4S%2CETC.jpg)
+![parte1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%2CRESISTENCIAS%2CLED%C2%B4S%2CETC.jpg)
 --------------------------------------------------------------------------------------------------------
 
