@@ -141,7 +141,7 @@ Cloruro Férrico.
 Taladro.
 Brocas.
 
-[!Herramientas](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/herramientas.png)
+![Herramientas](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/herramientas.png)
 
 
 --------------------------------------------------------------------------------------------------------
