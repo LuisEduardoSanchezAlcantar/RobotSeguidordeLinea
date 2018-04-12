@@ -164,3 +164,10 @@ Con la placa fenólica correctamente grabada y totalmente seca y libre de aspere
 3.-Ajuste de motores y engranes.
 
 Los motores del robot se ajustaran a los extremos de una lámina de metal que se pegara a la placa principal. A cada uno de los motores previamente se les ajusto los engranes que son los que van a dar la tracción sobre la superficie donde se coloque dicho robot.
+
+![PAART3](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PART3.png)
+
+La parte de los sensores no es menos importante, se debe tener en cuenta la Distancia entre emisores y receptores, así como la polaridad adecuada en base al circuito.
+
+Una vez soldadas correctamente todas las piezas se debe colocar la pila de 9Volts, y hay que verificar que los motores giren y en el sentido hacia dentro del robot. El Prototipo debe colocarse en un lugar plano asegurándose de que los engranes de los motores toquen totalmente la superficie así como los alambres que van en la parte frontal
+
