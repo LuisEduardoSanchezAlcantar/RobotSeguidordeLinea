@@ -145,4 +145,10 @@ Brocas.
 
 
 --------------------------------------------------------------------------------------------------------
+El procedimiento que se siguió fue el siguiente:
+
+1.-Creación de las pistas del circuito sobre la placa fenólica.
+
+Sobre la placa fenólica y del lado donde se encuentra el cobre se trazan las pistas según el circuito con un plumón negro. Una vez hecho esto se vacía el cloruro férrico sobre un recipiente donde se colocara la placa para poder obtener las pistas grabadas en cobre.
+
 
