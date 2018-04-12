@@ -31,7 +31,7 @@ CONTIENE:
 --------------------------------------------------------------------------------------------------------
 DIAGRAMA:
 
-
+![Diagrama](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/diagrama.png)
 
 
 
