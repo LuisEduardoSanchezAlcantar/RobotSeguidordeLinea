@@ -26,14 +26,8 @@ OBJETIVOS:
 --------------------------------------------------------------------------------------------------------
 CONTIENE:
 
-2 RUEDAS
-2 MOTORES REDUCTORES
-1 INTERRUPTOR DE SALTO
-1 TERMOFIL
-1 VELCRO
-1 PORTA PILAS
-2 SENSOR QRD1114
-1 RUEDA LOCA
+![Componentes](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%20MONTADAS.jpg)
+
 
 --------------------------------------------------------------------------------------------------------
 ![Circuito 1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%20MONTADAS.jpg)
