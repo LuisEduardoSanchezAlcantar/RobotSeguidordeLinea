@@ -172,7 +172,7 @@ La parte de los sensores no es menos importante, se debe tener en cuenta la Dist
 Una vez soldadas correctamente todas las piezas se debe colocar la pila de 9Volts, y hay que verificar que los motores giren y en el sentido hacia dentro del robot. El Prototipo debe colocarse en un lugar plano asegurándose de que los engranes de los motores toquen totalmente la superficie así como los alambres que van en la parte frontal
 
 
-![PAART4]()
+![PAART4](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%20MONTADAS.jpg)
 
 
 NOTA 1: Es importante que el fototransistor Q1 se encuetre protegido con algún plastificado, esto para que no sea afectado por las señales que generan los diodos que se encuentran a su alrededor.
