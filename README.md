@@ -123,5 +123,7 @@ COMPONENTES ELECTRONICOS.
 	1 Base para CI de 8 pines
 	1 CI LM393.
 
+1 part.
+(https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%2CRESISTENCIAS%2CLED%C2%B4S%2CETC.jpg)
 --------------------------------------------------------------------------------------------------------
 
