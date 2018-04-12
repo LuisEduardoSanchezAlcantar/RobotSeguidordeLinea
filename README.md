@@ -152,3 +152,11 @@ El procedimiento que se siguió fue el siguiente:
 Sobre la placa fenólica y del lado donde se encuentra el cobre se trazan las pistas según el circuito con un plumón negro. Una vez hecho esto se vacía el cloruro férrico sobre un recipiente donde se colocara la placa para poder obtener las pistas grabadas en cobre.
 
 ![PAART1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PART1.png)
+
+--------------------------------------------------------------------------------------------------------
+
+2.-Montar los componentes y soldar correctamente.
+
+Con la placa fenólica correctamente grabada y totalmente seca y libre de asperezas, se procede a montar los componentes uno a uno y soldar correctamente. Se tiene que tener mucho cuidado con al saldar ya que un error o distracción puede traer serias consecuencias como posibles cortos o falsos.
+
+
