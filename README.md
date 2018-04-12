@@ -28,6 +28,13 @@ CONTIENE:
 
 ![Componentes](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/COMPONENTES.png)
 
+--------------------------------------------------------------------------------------------------------
+DIAGRAMA:
+
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------
 ![Circuito 1](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%20MONTADAS.jpg)
