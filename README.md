@@ -180,6 +180,12 @@ NOTA 1: Es importante que el fototransistor Q1 se encuetre protegido con algún 
 
 NOTA 2: Los 2 sensores QRD deben de estar colocados a una distancia de ½ cm de distancia con ell piso, esto para que pueda realizar la lectura correcta de las líneas marcadas en la superficie.
 
+--------------------------------------------------------------------------------------------------------
 
+CONCLUSIONES.
+
+Se diseñó e implementó, un robot seguidor de línea. El funcionamiento del robot fue adecuado a la meta propuesta Se demostró que a pesar de que se usaron componentes básicos de electrónica son suficientes para realizar un proyecto interesante y vistoso. El robot cumple las expectativas esperadas a demás este sirve como base para adentrarse en el campo de la electrónica y robótica.
+Gracias a este robot seguidor de líneas los integrantes han desarrollado habilidades y destreza para su construcción, además de que despertaron su imaginación y creatividad más allá de lo que se esperaba.
+El robot que hemos construido podría tener varias aplicaciones, desde un trasporte económico, así como el de un servicio dentro de áreas pequeñas como lo son departamentos ya que pueden llevar objetos de un punto a otro.
 
 
