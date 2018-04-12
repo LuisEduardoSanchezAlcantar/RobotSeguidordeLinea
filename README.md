@@ -159,4 +159,4 @@ Sobre la placa fenólica y del lado donde se encuentra el cobre se trazan las pi
 
 Con la placa fenólica correctamente grabada y totalmente seca y libre de asperezas, se procede a montar los componentes uno a uno y soldar correctamente. Se tiene que tener mucho cuidado con al saldar ya que un error o distracción puede traer serias consecuencias como posibles cortos o falsos.
 
-
+![PAART2](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PART2.png)
