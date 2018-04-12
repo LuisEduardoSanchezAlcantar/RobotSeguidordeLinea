@@ -26,7 +26,7 @@ OBJETIVOS:
 --------------------------------------------------------------------------------------------------------
 CONTIENE:
 
-![Componentes](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/PIEZAS%20MONTADAS.jpg)
+![Componentes](https://github.com/LuisEduardoSanchezAlcantar/RobotSeguidordeLinea/blob/master/COMPONENTES.png)
 
 
 --------------------------------------------------------------------------------------------------------
